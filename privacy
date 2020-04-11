@@ -1,0 +1,36 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0; minimum-scale=1.0; user-scalable=0;" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+</head>
+<body>
+<p><h3 align="center">Term of Service</h3></p>
+<ul style="word-wrap:break-word;font-size:14px;">
+      <li type="square" style="margin-bottom:10px;">This apps is third party apps based <b>The Movie DB API Services</b>. All the database, content, video trailer is provided by The Movie DB. We are not uploaders, database and vodeo owners. you can read more at <a href="https://www.themoviedb.org/documentation/api">https://www.themoviedb.org/documentation/api/</a>.
+      </li>
+      <li type="square" style="margin-bottom:10px">All users of this apps must be subject to <b>The Movie DB Terms of Use</b>, you can read more at <a href="https://www.themoviedb.org/terms-of-use">https://www.themoviedb.org/terms-of-use</a>.
+      </li>
+    <li type="square" style="margin-bottom:10px">
+        This app is totally free, no need login, no info collect, not track location, no fraud.
+    </li>
+    <li type="square" style="margin-bottom:10px">
+        This app using admob as 3rd party ads that may collect information used to identify you. but you don't need to worry, you can read <b>AdMob & AdSense policies</b> at <a href="https://support.google.com/admob/answer/6128543">https://support.google.com/admob/answer/6128543</a>.
+    </li>
+    <li type="square">This apps requires permissions :
+      <ul>
+            <li type="circle"><b>Internet connection.</b><br/>
+            Internet connection needed to retrieve data, content, video from server.
+            </li>
+            <li type="circle"><b>Write and read storage.</b><br/>
+            Write and read the storage needed to store cache system image thumbnail. this is very necessary to save the use of internet data.
+            </li>
+        </ul>
+    </li>
+    <li type="square" style="margin-bottom:10px">
+        If you have read the TOS above and accept it, please click "accept" and enjoy all the features in this app, if you do not agree, please click "exit" and delete this app from your mobile phone ;).
+    </li>
+</ul>
+</body>
+</html>
